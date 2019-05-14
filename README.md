@@ -8,4 +8,4 @@ pod install
 ```
 
 ## Screenshots
-![screenshot](https://i.imgur.com/W2FcFpg.png) ![screenshot-2](https://i.imgur.com/iUkTML9.png?1) ![screenshot-3](https://i.imgur.com/ExzCRNG.png?1)
+![screenshot-1](https://github.com/michaelduong/coding-challenge-flo/blob/master/Assets/screenshot-1.png) ![screenshot-2](https://github.com/michaelduong/coding-challenge-flo/blob/master/Assets/screenshot-2.png) ![screenshot-3](https://github.com/michaelduong/coding-challenge-flo/blob/master/Assets/screenshot-3.png)
