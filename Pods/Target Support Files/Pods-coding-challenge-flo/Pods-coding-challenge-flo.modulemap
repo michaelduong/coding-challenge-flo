@@ -1,0 +1,6 @@
+framework module Pods_coding_challenge_flo {
+  umbrella header "Pods-coding-challenge-flo-umbrella.h"
+
+  export *
+  module * { export * }
+}
